@@ -1,0 +1,61 @@
+{
+  "id": 1343968243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.46631,21.66258,-72.46631,21.66258",
+    "geom:latitude":21.66258,
+    "geom:longitude":-72.46631,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Yankee Town",
+    "gn:country_code":"TC",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3576902,
+    "gn:latitude":21.66258,
+    "gn:longitude":-72.46631,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Yankee Town",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576902
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"5e57bbb22806c945a0b9de7d760e5a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343968243,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343968243,
+    "wof:lastmodified":1537007945,
+    "wof:name":"Yankee Town",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.46631,
+    21.66258,
+    -72.46631,
+    21.66258
+],
+  "geometry": {"coordinates":[-72.46630999999999,21.66258],"type":"Point"}
+}

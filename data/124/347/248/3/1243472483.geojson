@@ -1,0 +1,68 @@
+{
+  "id": 1243472483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.21052,21.78134,-72.21052,21.78134",
+    "geom:latitude":21.78134,
+    "geom:longitude":-72.21052,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lower Bight",
+    "gn:country_code":"TC",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201598,
+    "gn:latitude":21.78134,
+    "gn:longitude":-72.21052,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Lower Bight",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632205,
+        85678417,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201598
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"0c002a9cbacdb148c3b148798f24de72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":1243472483,
+            "region_id":85678417
+        }
+    ],
+    "wof:id":1243472483,
+    "wof:lastmodified":1536768473,
+    "wof:name":"Lower Bight",
+    "wof:parent_id":85678417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.21051999999997,
+    21.78134,
+    -72.21051999999997,
+    21.78134
+],
+  "geometry": {"coordinates":[-72.21051999999997,21.78134],"type":"Point"}
+}

@@ -1,0 +1,174 @@
+{
+  "id": 85678409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.011724,
+    "geom:area_square_m":134595686.243233,
+    "geom:bbox":"-71.8506567049,21.743882554,-71.6309301419,21.8562686223",
+    "geom:latitude":21.80926,
+    "geom:longitude":-71.741884,
+    "gn:id":"",
+    "iso:country":"TC",
+    "label:eng_x_preferred_longname":[
+        "Middle Caicos District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":21.81663,
+    "lbl:longitude":-71.752704,
+    "mps:latitude":21.81663,
+    "mps:longitude":-71.752704,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Middle Caicos"
+    ],
+    "name:eng_x_preferred":[
+        "Middle Caicos"
+    ],
+    "name:fra_x_preferred":[
+        "Middle Caicos"
+    ],
+    "name:glg_x_preferred":[
+        "Caicos Central"
+    ],
+    "name:lit_x_preferred":[
+        "Vidurinysis Kaikosas"
+    ],
+    "name:nld_x_preferred":[
+        "Middle Caicos"
+    ],
+    "name:spa_x_preferred":[
+        "Caicos Central"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u51f1\u79d1\u65af\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TCA",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"TCA-5003",
+    "ne:adm1_code":"TCA-5003",
+    "ne:admin":"Turks and Caicos Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"TC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5003",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Turks and Caicos Islands",
+    "ne:gn_a1_code":"TC.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TC-",
+    "ne:iso_a2":"TC",
+    "ne:labelrank":"20",
+    "ne:latitude":"21.81960000000",
+    "ne:longitude":"-71.76690000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Middle Caicos",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Middle_Caicos",
+    "ne:woe_id":24549932,
+    "ne:woe_label":"",
+    "ne:woe_name":"Middle Caicos",
+    "qs:a0":"Turks and Caicos Islands",
+    "qs:a0_lc":"TC",
+    "qs:a1":"Middle Caicos",
+    "qs:a1_lc":"TCA-5003",
+    "qs:adm0":"Turks and Caicos Islands",
+    "qs:adm0_a3":"TCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":494,
+    "wof:belongsto":[
+        102191575,
+        85632205,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":-99,
+        "gp:id":24549932,
+        "hasc:id":"TC.",
+        "qs:id":891880,
+        "wd:id":"Q1475037"
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"682a91b4177f154614e4035c46047a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "region_id":85678409
+        }
+    ],
+    "wof:id":85678409,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553626623,
+    "wof:name":"Middle Caicos",
+    "wof:parent_id":85632205,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.85065670494293,
+    21.7438825540367,
+    -71.63093014191247,
+    21.85626862229913
+],
+  "geometry": {"coordinates":[[[-71.80284583206947,21.78790924701417],[-71.82770748571187,21.78579336167434],[-71.8355199862583,21.79148997598168],[-71.84439042857537,21.80780670861276],[-71.84801184826813,21.81940338725656],[-71.85065670494293,21.85626862229913],[-71.84235592378684,21.85561758058691],[-71.8338110018762,21.85382721655287],[-71.82583574112653,21.85077545802102],[-71.80939693901746,21.8399925803933],[-71.79991614481418,21.83991119984205],[-71.79076087101737,21.84223053611038],[-71.78172766759775,21.84316640840308],[-71.72032630111784,21.83576080971363],[-71.69176184813074,21.84121328326648],[-71.67878170461194,21.84186432497864],[-71.66563880088989,21.83576080971363],[-71.65518144366865,21.82322825697855],[-71.63093014191247,21.77431875250846],[-71.64806067555969,21.77960846585808],[-71.65904700411591,21.79352448166952],[-71.6680802066362,21.80975983285003],[-71.67931067594691,21.82208893465668],[-71.67121334481999,21.79975006731183],[-71.6524145166166,21.76496002868242],[-71.64517167902972,21.74640534123358],[-71.65859941333224,21.7438825540367],[-71.66852779921851,21.7504336609847],[-71.68614661347539,21.77431875250846],[-71.69200598888523,21.76406484621572],[-71.69359290289015,21.75999583483997],[-71.6998184885324,21.75999583483997],[-71.71544348872601,21.78729889512795],[-71.74111894428381,21.79490794564521],[-71.80284583206947,21.78790924701417]]],"type":"Polygon"}
+}

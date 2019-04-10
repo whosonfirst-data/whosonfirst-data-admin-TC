@@ -1,0 +1,103 @@
+{
+  "id": 102535783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.939598,21.9175,-71.939598,21.9175",
+    "geom:latitude":21.9175,
+    "geom:longitude":-71.939598,
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Caicos Airport"
+    ],
+    "name:eng_x_variant":[
+        "NCA",
+        "KNCA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0631\u062b \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ce\u30fc\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u7a7a\u6e2f"
+    ],
+    "name:may_x_preferred":[
+        "Lapangan Terbang North Caicos"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang North Caicos"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0631\u062b \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy North Caicos"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041d\u043e\u0440\u0442-\u041a\u0430\u0439\u043a\u043e\u0441"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto de Caicos del Norte"
+    ],
+    "oa:elevation_ft":"10",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":92,
+    "woe:hierarchy":{
+        "country_id":23424962,
+        "planet_id":1,
+        "state_id":24549934
+    },
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517842,
+        "iata:code":"NCA",
+        "icao:code":"KNCA",
+        "oa:id":"4627",
+        "wd:id":"Q7054343"
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"5b6ee0c15a6f95131f06978b557c47d8",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535783,
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85678413
+        }
+    ],
+    "wof:id":102535783,
+    "wof:lastmodified":1527636400,
+    "wof:name":"North Caicos Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -71.939598,
+    21.9175,
+    -71.939598,
+    21.9175
+],
+  "geometry": {"coordinates":[-71.939598,21.9175],"type":"Point"}
+}

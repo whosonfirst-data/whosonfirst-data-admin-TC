@@ -1,0 +1,71 @@
+{
+  "id": 1327241731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.80095,21.82965,-71.80095,21.82965",
+    "geom:latitude":21.82965,
+    "geom:longitude":-71.80095,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Conch Bar",
+    "gn:country_code":"TC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577025,
+    "gn:latitude":21.82965,
+    "gn:longitude":-71.80095,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Conch Bar",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Conch Bar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632205,
+        85678409,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577025
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"7dc3dcb24428113c8f8aca5bf5e6b21b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":1327241731,
+            "region_id":85678409
+        }
+    ],
+    "wof:id":1327241731,
+    "wof:lastmodified":1537702645,
+    "wof:name":"Conch Bar",
+    "wof:parent_id":85678409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.80095,
+    21.82965,
+    -71.80095,
+    21.82965
+],
+  "geometry": {"coordinates":[-71.80095,21.82965],"type":"Point"}
+}

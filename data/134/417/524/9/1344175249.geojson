@@ -1,0 +1,71 @@
+{
+  "id": 1344175249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.53355,21.49917,-71.53355,21.49917",
+    "geom:latitude":21.49917,
+    "geom:longitude":-71.53355,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"The Flat",
+    "gn:country_code":"TC",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11250598,
+    "gn:latitude":21.49917,
+    "gn:longitude":-71.53355,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"The Flat",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "The Flat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632205,
+        85678421,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11250598
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"825668707743219d31f288707e29499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":1344175249,
+            "region_id":85678421
+        }
+    ],
+    "wof:id":1344175249,
+    "wof:lastmodified":1537702646,
+    "wof:name":"The Flat",
+    "wof:parent_id":85678421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.53355,
+    21.49917,
+    -71.53355,
+    21.49917
+],
+  "geometry": {"coordinates":[-71.53355000000001,21.49917],"type":"Point"}
+}

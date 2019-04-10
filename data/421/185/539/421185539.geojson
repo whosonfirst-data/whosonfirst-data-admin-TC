@@ -1,0 +1,81 @@
+{
+  "id": 421185539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-71.13333,21.46667,-71.13333,21.46667",
+    "geom:latitude":21.46667,
+    "geom:longitude":-71.13333,
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Over Back The Damp"
+    ],
+    "qs:gn_country":"TC",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":3576953,
+    "qs:gn_pop":0,
+    "qs:name":"Over Back the Damp",
+    "qs:name_adm0":"Turks and Caicos Islands",
+    "qs:name_adm1":"Gand Turk",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1026069,
+    "qs:woe_adm0":23424962,
+    "qs:woe_id":162155,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576953,
+        "gp:id":162155,
+        "qs:id":1026069
+    },
+    "wof:country":"TC",
+    "wof:created":1459009446,
+    "wof:geomhash":"c4fb81c5d85a4f31ffce5b5a55b94407",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":421185539,
+            "region_id":85678427
+        }
+    ],
+    "wof:id":421185539,
+    "wof:lastmodified":1531858589,
+    "wof:name":"Over Back the Damp",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.13333,
+    21.46667,
+    -71.13333,
+    21.46667
+],
+  "geometry": {"coordinates":[-71.13333,21.46667],"type":"Point"}
+}

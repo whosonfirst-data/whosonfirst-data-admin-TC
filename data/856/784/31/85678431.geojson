@@ -1,0 +1,158 @@
+{
+  "id": 85678431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000439,
+    "geom:area_square_m":5058563.341701,
+    "geom:bbox":"-71.2192276678,21.3106143256,-71.1924942696,21.3413760445",
+    "geom:latitude":21.327953,
+    "geom:longitude":-71.2072,
+    "gn:id":"",
+    "iso:country":"TC",
+    "label:eng_x_preferred_longname":[
+        "Salt Cay District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":21.328689,
+    "lbl:longitude":-71.206998,
+    "mps:latitude":21.328689,
+    "mps:longitude":-71.206998,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:eng_x_preferred":[
+        "Salt Cay"
+    ],
+    "name:swe_x_preferred":[
+        "Salt Cay"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TCA",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"TCA-5008",
+    "ne:adm1_code":"TCA-5008",
+    "ne:admin":"Turks and Caicos Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"TC.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5008",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Turks and Caicos Islands",
+    "ne:gn_a1_code":"TC.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TCA",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TC-",
+    "ne:iso_a2":"TC",
+    "ne:labelrank":"20",
+    "ne:latitude":"21.32950000000",
+    "ne:longitude":"-71.20720000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"Salt Cay",
+    "ne:name_alt":"",
+    "ne:name_len":8,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Salt_Cay,_Turks_Islands",
+    "ne:woe_id":24549930,
+    "ne:woe_label":"",
+    "ne:woe_name":"Salt Cay",
+    "qs:a0":"Turks and Caicos Islands",
+    "qs:a0_lc":"TC",
+    "qs:a1":"Salt Cay",
+    "qs:a1_lc":"TCA-5008",
+    "qs:adm0":"Turks and Caicos Islands",
+    "qs:adm0_a3":"TCA",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191575,
+        85632205,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":-99,
+        "gp:id":24549930,
+        "hasc:id":"TC.",
+        "qs:id":352616
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"a21008852ce7d8e06905784dc85e7175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "region_id":85678431
+        }
+    ],
+    "wof:id":85678431,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553626623,
+    "wof:name":"Salt Cay",
+    "wof:parent_id":85632205,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.21922766782257,
+    21.31061432559068,
+    -71.19249426959482,
+    21.34137604446892
+],
+  "geometry": {"coordinates":[[[-71.20982825417053,21.34137604446892],[-71.2000626284875,21.34105052316318],[-71.19249426959482,21.3350283875501],[-71.20124264153463,21.32306549687524],[-71.21369381371846,21.31061432559068],[-71.21922766782257,21.31435781566074],[-71.21426347577875,21.33283112255833],[-71.20982825417053,21.34137604446892]]],"type":"Polygon"}
+}

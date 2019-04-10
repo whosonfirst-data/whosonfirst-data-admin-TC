@@ -1,0 +1,118 @@
+{
+  "id": 85794089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":44217349.757512,
+    "geom:bbox":"-71.140279,21.472825,-71.140279,21.472825",
+    "geom:latitude":21.472825,
+    "geom:longitude":-71.140279,
+    "gn:latitude":21.46667,
+    "gn:longitude":-71.13333,
+    "iso:country":"TC",
+    "lbl:latitude":21.472825,
+    "lbl:longitude":-71.140279,
+    "mps:latitude":21.465845,
+    "mps:longitude":-71.14075,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":1,
+    "name:ceb_x_preferred":[
+        "West Road"
+    ],
+    "name:eng_x_preferred":[
+        "West Road"
+    ],
+    "name:eng_x_variant":[
+        "W Road"
+    ],
+    "name:swe_x_preferred":[
+        "West Road"
+    ],
+    "name:unk_x_variant":[
+        "West Road"
+    ],
+    "qs:gn_adm0_cc":"TC",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3576994,
+    "qs:gn_namadm1":"00",
+    "qs:gn_name":"West Road",
+    "qs:local_max":1790,
+    "qs:local_sum":1790,
+    "qs:localhoods":1,
+    "qs:name":"West Road",
+    "qs:name_adm0":"Turks and Caicos Islands",
+    "qs:name_adm1":"Gand Turk",
+    "qs:name_local":"Grand Turk",
+    "qs:photo_max":545,
+    "qs:photo_sum":1790,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":58,
+    "qs:woe_adm0":23424962,
+    "qs:woe_adm1":24549929,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":162151,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        85632205,
+        102191575,
+        136253055,
+        85678427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3576909,
+        "gp:id":162159,
+        "qs:id":1082677,
+        "qs_pg:id":1082677
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"9c320e36fd454715844e377f7d605ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":-1,
+            "neighbourhood_id":85794089,
+            "region_id":85678427
+        }
+    ],
+    "wof:id":85794089,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861460,
+    "wof:name":"West Road",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.140279,
+    21.472825,
+    -71.140279,
+    21.472825
+],
+  "geometry": {"coordinates":[-71.14027900000001,21.472825],"type":"Point"}
+}

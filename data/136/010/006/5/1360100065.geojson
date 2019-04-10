@@ -1,0 +1,60 @@
+{
+  "id": 1360100065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28189,21.7426,-72.28189,21.7426",
+    "geom:latitude":21.7426,
+    "geom:longitude":-72.28189,
+    "gn:asciiname":"Sapodilla Bay Beach",
+    "gn:country_code":"TC",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8555967,
+    "gn:latitude":21.7426,
+    "gn:longitude":-72.28189,
+    "gn:modification_date":"2013-06-13",
+    "gn:name":"Sapodilla Bay Beach",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8555967
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"7c49cce12082f562091ca79df73cf5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360100065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360100065,
+    "wof:lastmodified":1536924649,
+    "wof:name":"Sapodilla Bay Beach",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28189,
+    21.7426,
+    -72.28189,
+    21.7426
+],
+  "geometry": {"coordinates":[-72.28189,21.7426],"type":"Point"}
+}

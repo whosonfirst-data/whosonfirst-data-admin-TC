@@ -1,0 +1,68 @@
+{
+  "id": 1327152459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-72.28719,21.81961,-72.28719,21.81961",
+    "geom:latitude":21.81961,
+    "geom:longitude":-72.28719,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Corrinice",
+    "gn:country_code":"TC",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201379,
+    "gn:latitude":21.81961,
+    "gn:longitude":-72.28719,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Corrinice",
+    "gn:population":0,
+    "gn:timezone":"America/Grand_Turk",
+    "iso:country":"TC",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632205,
+        85678417,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201379
+    },
+    "wof:country":"TC",
+    "wof:geomhash":"7da9ed7c55fca8a8a1702ee2d95663bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632205,
+            "empire_id":136253055,
+            "locality_id":1327152459,
+            "region_id":85678417
+        }
+    ],
+    "wof:id":1327152459,
+    "wof:lastmodified":1537081829,
+    "wof:name":"Corrinice",
+    "wof:parent_id":85678417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.28719,
+    21.81961,
+    -72.28719,
+    21.81961
+],
+  "geometry": {"coordinates":[-72.28719,21.81961],"type":"Point"}
+}
