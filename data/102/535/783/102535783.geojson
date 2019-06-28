@@ -25,14 +25,8 @@
     "name:jpn_x_preferred":[
         "\u30ce\u30fc\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u7a7a\u6e2f"
     ],
-    "name:may_x_preferred":[
-        "Lapangan Terbang North Caicos"
-    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang North Caicos"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0646\u0648\u0631\u062b \u06a9\u0627\u06cc\u06a9\u0648\u0633"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy North Caicos"
@@ -82,7 +76,7 @@
         }
     ],
     "wof:id":102535783,
-    "wof:lastmodified":1527636400,
+    "wof:lastmodified":1561749527,
     "wof:name":"North Caicos Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
