@@ -34,22 +34,16 @@
     "name:cat_x_preferred":[
         "Cockburn Town"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u4f2f\u6069\u57ce"
+    "name:ces_x_preferred":[
+        "Cockburn Town"
     ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u0431\u0435\u0440\u043d-\u0422\u0430\u0443\u043d"
-    ],
-    "name:cze_x_preferred":[
-        "Cockburn Town"
     ],
     "name:dan_x_preferred":[
         "Cockburn Town"
     ],
     "name:deu_x_preferred":[
-        "Cockburn Town"
-    ],
-    "name:dut_x_preferred":[
         "Cockburn Town"
     ],
     "name:ell_x_preferred":[
@@ -67,23 +61,14 @@
     "name:fin_x_preferred":[
         "Cockburn Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cockburn Town"
     ],
     "name:fry_x_preferred":[
         "Cockburn Town"
     ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10d9\u10d1\u10d4\u10e0\u10dc-\u10e2\u10d0\u10e3\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cockburn Town"
-    ],
     "name:glg_x_preferred":[
         "Cockburn Town"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03cc\u03ba\u03bc\u03c0\u03b5\u03c1\u03bd \u03a4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d5\u05e7\u05d1\u05d5\u05e8\u05df \u05d8\u05d0\u05d5\u05df"
@@ -118,17 +103,17 @@
     "name:lmo_x_preferred":[
         "Cockburn Town"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0431\u0435\u0440\u043d \u0422\u0430\u0443\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0949\u0915\u092c\u0930\u094d\u0928 \u091f\u093e\u0909\u0928"
     ],
-    "name:may_x_preferred":[
-        "Cockburn Town"
-    ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0431\u0435\u0440\u043d \u0422\u0430\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Cockburn Town"
+    ],
+    "name:nld_x_preferred":[
+        "Cockburn Town"
     ],
     "name:nob_x_preferred":[
         "Cockburn Town"
@@ -141,9 +126,6 @@
     ],
     "name:oci_x_preferred":[
         "Cockburn Town"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06a9 \u0628\u0631\u0646 \u062a\u0627\u0648\u0646\u060c \u0628\u0627\u0647\u0627\u0645\u0627"
     ],
     "name:pms_x_preferred":[
         "Cockburn Town"
@@ -160,7 +142,7 @@
     "name:sco_x_preferred":[
         "Cockburn Town"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Cockburn Town"
     ],
     "name:spa_x_preferred":[
@@ -326,7 +308,7 @@
         }
     ],
     "wof:id":890440113,
-    "wof:lastmodified":1527727111,
+    "wof:lastmodified":1561749527,
     "wof:name":"Cockburn Town",
     "wof:parent_id":85678427,
     "wof:placetype":"locality",
