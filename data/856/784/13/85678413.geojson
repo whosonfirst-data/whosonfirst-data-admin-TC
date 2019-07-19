@@ -25,8 +25,23 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0627\u0644 \u0643\u0627\u064a\u0643\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u0989\u09a4\u09cd\u09a4\u09b0 \u0995\u09be\u09af\u09bc\u0995\u09cb\u09b8"
+    ],
+    "name:ceb_x_preferred":[
+        "North Caicos Island"
+    ],
+    "name:dan_x_preferred":[
+        "North Caicos"
+    ],
     "name:deu_x_preferred":[
         "North Caicos"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03cc\u03c1\u03b8 \u039a\u03b1\u0390\u03ba\u03bf\u03c2"
     ],
     "name:eng_x_preferred":[
         "North Caicos"
@@ -34,20 +49,92 @@
     "name:eng_x_variant":[
         "N Caicos"
     ],
+    "name:fin_x_preferred":[
+        "North Caicos"
+    ],
     "name:fra_x_preferred":[
         "North Caicos"
     ],
     "name:glg_x_preferred":[
         "Caicos do Norte"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acb\u0ab0\u0acd\u0aa5 \u0a95\u0ac8\u0a95\u0acb\u0ab8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0909\u0924\u094d\u0924\u0930 \u0915\u093e\u0907\u0915\u094b\u0938"
+    ],
+    "name:ind_x_preferred":[
+        "North Caicos"
+    ],
+    "name:ita_x_preferred":[
+        "North Caicos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u30ab\u30a4\u30b3\u30b9\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cbe\u0cb0\u0ccd\u0ca4\u0ccd \u0c95\u0cc8\u0c95\u0ccb\u0cb8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ub178\uc2a4 \ucf00\uc774\ucee4\uc2a4"
+    ],
+    "name:lav_x_preferred":[
+        "Zieme\u013ckaikosa"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160iaur\u0117s Kaikosas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u0949\u0930\u094d\u0925 \u0915\u0947\u0915\u094b\u0938"
+    ],
+    "name:msa_x_preferred":[
+        "North Caicos"
+    ],
     "name:nld_x_preferred":[
+        "North Caicos"
+    ],
+    "name:nob_x_preferred":[
+        "Nord Caicos"
+    ],
+    "name:pol_x_preferred":[
         "North Caicos"
     ],
     "name:por_x_preferred":[
         "Caicos do Norte"
     ],
+    "name:rus_x_preferred":[
+        "\u041d\u043e\u0440\u0442-\u041a\u0430\u0439\u043a\u043e\u0441"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0dba\u0dd2\u0d9a\u0ddd\u0dc3\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Caicos del Norte"
+    ],
+    "name:swe_x_preferred":[
+        "Norra Caicos"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c15\u0c48\u0c15\u0c4b\u0c38\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e04\u0e04\u0e2d\u0e2a"
+    ],
+    "name:tur_x_preferred":[
+        "Kuzey Caicos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u043d\u0456\u0447\u043d\u0438\u0439 \u041a\u0430\u0439\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u06a9\u0627\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc Caicos"
     ],
     "name:zho_x_preferred":[
         "\u5317\u51f1\u79d1\u65af\u5cf6"
@@ -158,7 +245,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626624,
+    "wof:lastmodified":1563576262,
     "wof:name":"North Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
