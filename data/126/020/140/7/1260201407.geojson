@@ -25,7 +25,16 @@
     "iso:country":"TC",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "South Windsor"
+    ],
     "name:eng_x_preferred":[
+        "South Windsor"
+    ],
+    "name:mlg_x_preferred":[
+        "South Windsor"
+    ],
+    "name:swe_x_preferred":[
         "South Windsor"
     ],
     "src:geom":"geonames",
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1260201407,
-    "wof:lastmodified":1537702646,
+    "wof:lastmodified":1564180003,
     "wof:name":"South Windsor",
     "wof:parent_id":85678413,
     "wof:placetype":"locality",
