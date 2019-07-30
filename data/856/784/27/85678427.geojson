@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Grand Turk"
+    ],
     "name:deu_x_preferred":[
         "Grand Turk"
     ],
@@ -136,7 +139,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626627,
+    "wof:lastmodified":1564180002,
     "wof:name":"Grand Turk",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
