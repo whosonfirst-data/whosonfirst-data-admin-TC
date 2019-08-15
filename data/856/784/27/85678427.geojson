@@ -9,13 +9,15 @@
     "geom:bbox":"-71.1516820945,21.4316266954,-71.1288956372,21.513617255",
     "geom:latitude":21.471296,
     "geom:longitude":-71.140156,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "Grand Turk Island"
     ],
     "label:eng_x_preferred_placetype":[
         "island"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "GT"
     ],
     "lbl:latitude":21.472266,
     "lbl:longitude":-71.139939,
@@ -112,10 +114,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549929,
-        "hasc:id":"TC.",
         "qs:id":352615
     },
     "wof:country":"TC",
@@ -130,20 +129,18 @@
         }
     ],
     "wof:id":85678427,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564180002,
+    "wof:lastmodified":1565890883,
     "wof:name":"Grand Turk",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"GT",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

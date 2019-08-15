@@ -9,13 +9,15 @@
     "geom:bbox":"-72.0362442702,21.8283145203,-71.8574112619,21.9592145853",
     "geom:latitude":21.908127,
     "geom:longitude":-71.952357,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "North Caicos District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
     ],
     "lbl:latitude":21.886396,
     "lbl:longitude":-71.931358,
@@ -217,10 +219,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549934,
-        "hasc:id":"TC.",
         "qs:id":891881,
         "wd:id":"Q174861"
     },
@@ -236,20 +235,18 @@
         }
     ],
     "wof:id":85678413,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576262,
+    "wof:lastmodified":1565890872,
     "wof:name":"North Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"NC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

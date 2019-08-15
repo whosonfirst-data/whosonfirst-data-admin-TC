@@ -9,13 +9,15 @@
     "geom:bbox":"-71.2192276678,21.3106143256,-71.1924942696,21.3413760445",
     "geom:latitude":21.327953,
     "geom:longitude":-71.2072,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "Salt Cay District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
     ],
     "lbl:latitude":21.328689,
     "lbl:longitude":-71.206998,
@@ -112,10 +114,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549930,
-        "hasc:id":"TC.",
         "qs:id":352616
     },
     "wof:country":"TC",
@@ -130,20 +129,18 @@
         }
     ],
     "wof:id":85678431,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626623,
+    "wof:lastmodified":1565890886,
     "wof:name":"Salt Cay",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"SL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

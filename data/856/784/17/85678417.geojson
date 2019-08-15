@@ -9,13 +9,15 @@
     "geom:bbox":"-72.4813126291,21.6303164736,-72.0870255201,21.8854434272",
     "geom:latitude":21.780643,
     "geom:longitude":-72.282553,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "Providenciales and West Caicos District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
     ],
     "lbl:latitude":21.796832,
     "lbl:longitude":-72.272398,
@@ -108,10 +110,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549933,
-        "hasc:id":"TC.",
         "qs:id":432451
     },
     "wof:country":"TC",
@@ -126,20 +125,18 @@
         }
     ],
     "wof:id":85678417,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626625,
+    "wof:lastmodified":1565890875,
     "wof:name":"Providenciales and West Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"PL",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

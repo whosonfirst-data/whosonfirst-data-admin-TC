@@ -9,13 +9,15 @@
     "geom:bbox":"-71.8506567049,21.743882554,-71.6309301419,21.8562686223",
     "geom:latitude":21.80926,
     "geom:longitude":-71.741884,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "Middle Caicos District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "MS"
     ],
     "lbl:latitude":21.81663,
     "lbl:longitude":-71.752704,
@@ -214,10 +216,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549932,
-        "hasc:id":"TC.",
         "qs:id":891880,
         "wd:id":"Q1475037"
     },
@@ -233,20 +232,18 @@
         }
     ],
     "wof:id":85678409,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576261,
+    "wof:lastmodified":1565890868,
     "wof:name":"Middle Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"MS",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -9,13 +9,15 @@
     "geom:bbox":"-71.6990860672,21.2901065121,-71.4518936836,21.7668317733",
     "geom:latitude":21.644032,
     "geom:longitude":-71.51742,
-    "gn:id":"",
     "iso:country":"TC",
     "label:eng_x_preferred_longname":[
         "South Caicos and East Caicos District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
+    ],
+    "label:eng_x_preferred_shortcode":[
+        "SC"
     ],
     "lbl:latitude":21.704514,
     "lbl:longitude":-71.485389,
@@ -110,10 +112,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "fips:code":"",
-        "gn:id":-99,
         "gp:id":24549931,
-        "hasc:id":"TC.",
         "qs:id":1237239
     },
     "wof:country":"TC",
@@ -128,20 +127,18 @@
         }
     ],
     "wof:id":85678421,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553643107,
+    "wof:lastmodified":1565890879,
     "wof:name":"South Caicos and East Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
     "wof:repo":"whosonfirst-data-admin-tc",
+    "wof:shortcode":"SC",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
