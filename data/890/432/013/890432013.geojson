@@ -11,10 +11,14 @@
     "geom:longitude":-71.53333,
     "gn:country":"TC",
     "gn:fcode":"PPL",
-    "gn:pop":751,
+    "gn:population":751,
     "iso:country":"TC",
+    "lbl:bbox":"-71.55333,21.46333,-71.51333,21.50333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Cockburn Harbour"
     ],
@@ -38,7 +42,7 @@
     "wof:concordances":{
         "gn:id":3577027,
         "gp:id":162148,
-        "qs:id":583508,
+        "qs_pg:id":583508,
         "wd:id":"Q2981284",
         "wk:page":"Cockburn Harbour"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890432013,
-    "wof:lastmodified":1563576266,
+    "wof:lastmodified":1566652664,
     "wof:name":"Cockburn Harbour",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

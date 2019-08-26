@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":21.81663,
     "lbl:longitude":-71.752704,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.81663,
     "mps:longitude":-71.752704,
     "mz:hierarchy_label":1,
@@ -115,7 +116,7 @@
         "Midt Caicos"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd  \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
+        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c21\u0c3f\u0c32\u0c4d \u0c15\u0c48\u0c15\u0c4b\u0c38\u0c4d"
@@ -207,7 +208,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":494,
     "wof:belongsto":[
         102191575,
@@ -217,7 +218,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549932,
-        "qs:id":891880,
+        "qs_pg:id":891880,
         "wd:id":"Q1475037"
     },
     "wof:country":"TC",
@@ -238,7 +239,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565890868,
+    "wof:lastmodified":1566652662,
     "wof:name":"Middle Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
