@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":44217349.757512,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-71.140279,21.472825,-71.140279,21.472825",
     "geom:latitude":21.472825,
     "geom:longitude":-71.140279,
     "gn:latitude":21.46667,
     "gn:longitude":-71.13333,
     "iso:country":"TC",
+    "lbl:bbox":"-71.145279,21.467825,-71.135279,21.477825",
     "lbl:latitude":21.472825,
     "lbl:longitude":-71.140279,
+    "lbl:max_zoom":18.0,
     "mps:latitude":21.465845,
     "mps:longitude":-71.14075,
     "mz:hierarchy_label":0,
@@ -35,9 +37,6 @@
         "W Road"
     ],
     "name:swe_x_preferred":[
-        "West Road"
-    ],
-    "name:unk_x_variant":[
         "West Road"
     ],
     "qs:gn_adm0_cc":"TC",
@@ -67,7 +66,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":57,
     "wof:belongsto":[
         85632205,
@@ -79,7 +78,6 @@
     "wof:concordances":{
         "gn:id":3576909,
         "gp:id":162159,
-        "qs:id":1082677,
         "qs_pg:id":1082677
     },
     "wof:country":"TC",
@@ -99,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531861460,
+    "wof:lastmodified":1566652661,
     "wof:name":"West Road",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

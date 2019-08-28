@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":21.328689,
     "lbl:longitude":-71.206998,
+    "lbl:min_zoom":8.0,
     "mps:latitude":21.328689,
     "mps:longitude":-71.206998,
     "mz:hierarchy_label":1,
@@ -105,7 +106,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":27,
     "wof:belongsto":[
         102191575,
@@ -115,7 +116,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549930,
-        "qs:id":352616
+        "qs_pg:id":352616
     },
     "wof:country":"TC",
     "wof:geomhash":"a21008852ce7d8e06905784dc85e7175",
@@ -135,7 +136,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565890886,
+    "wof:lastmodified":1566652662,
     "wof:name":"Salt Cay",
     "wof:parent_id":85632205,
     "wof:placetype":"region",

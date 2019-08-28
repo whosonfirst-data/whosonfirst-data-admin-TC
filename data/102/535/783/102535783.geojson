@@ -12,6 +12,7 @@
     "iso:country":"TC",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:ceb_x_preferred":[
         "North Caicos Airport"
     ],
@@ -85,7 +86,7 @@
         }
     ],
     "wof:id":102535783,
-    "wof:lastmodified":1563576259,
+    "wof:lastmodified":1566652660,
     "wof:name":"North Caicos Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

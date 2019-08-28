@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grand_Turk",
     "iso:country":"TC",
+    "lbl:bbox":"-71.55355,21.47917,-71.51355,21.51917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "The Flat"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1344175249,
-    "wof:lastmodified":1564180001,
+    "wof:lastmodified":1566652661,
     "wof:name":"The Flat",
     "wof:parent_id":85678421,
     "wof:placetype":"locality",
