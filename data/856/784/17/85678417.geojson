@@ -35,7 +35,64 @@
         "Providencales & West Caicos"
     ],
     "name:fra_x_preferred":[
+        "Providence et Ca\u00efcos de l'Ouest"
+    ],
+    "name:fra_x_variant":[
         "Providenciales et West Caicos"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05d5\u05d1\u05d9\u05d3\u05e0\u05e1\u05d9\u05d0\u05dc\u05e1 \u05d5\u05de\u05e2\u05e8\u05d1 \u05e7\u05d9\u05d9\u05e7\u05d5\u05e1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0930\u094b\u0935\u093f\u0921\u0947\u0902\u0938\u093f\u092f\u0932 \u0914\u0930 \u0935\u0947\u0938\u094d\u091f \u0915\u0948\u0915\u094b\u0938"
+    ],
+    "name:hun_x_preferred":[
+        "Providenciales \u00e9s Nyugat-Caicos"
+    ],
+    "name:ind_x_preferred":[
+        "Providenciales dan West Caicos"
+    ],
+    "name:ita_x_preferred":[
+        "Providenciales and West Caicos"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30ed\u30d3\u30c7\u30f3\u30b7\u30a2\u30ec\u30b9\u3068\u897f\u6d77\u5cb8"
+    ],
+    "name:kor_x_preferred":[
+        "\ud504\ub85c\ube44\ub374\uc2dc\uc54c\ub808\uc2a4 \uc564 \uc6e8\uc2a4\ud2b8 \ucf00\uc774\ucee4\uc2a4"
+    ],
+    "name:nld_x_preferred":[
+        "Providenciales and West Caicos"
+    ],
+    "name:pol_x_preferred":[
+        "Providenciales i Zachodnie Caicos"
+    ],
+    "name:por_x_preferred":[
+        "Providenciais e Caicos do Oeste"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0438\u0434\u0435\u043d\u0441\u044c\u044f\u043b\u0435\u0441 \u0438 \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u041a\u0430\u0439\u043a\u043e\u0441"
+    ],
+    "name:swe_x_preferred":[
+        "Providenciales and West Caicos"
+    ],
+    "name:tur_x_preferred":[
+        "Providenciales ve Bat\u0131 Caicos"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0440\u043e\u0432\u0456\u0434\u0435\u043d\u0441\u0456\u0430\u043b\u0435\u0441 \u0456 \u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u041a\u0430\u0439\u043a\u043e\u0441"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0631\u0648\u06cc\u0688\u06cc\u0646\u0633\u06cc\u0627\u0644\u06cc\u0633 \u0627\u0648\u0631 \u0648\u06cc\u0633\u0679 \u06a9\u06cc\u06a9\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o Providenciales v\u00e0 \u0111\u1ea3o West Caicos"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u666e\u7f57\u7ef4\u767b\u590f\u83b1\u65af\u548c\u897f\u51ef\u79d1\u65af\u7fa4\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u666e\u7f85\u7dad\u767b\u897f\u4e9e\u840a\u65af\u5cf6\u548c\u897f\u51f1\u79d1\u65af\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TCA",
@@ -135,7 +192,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1627522810,
+    "wof:lastmodified":1636500666,
     "wof:name":"Providenciales and West Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",

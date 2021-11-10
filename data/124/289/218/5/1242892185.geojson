@@ -44,6 +44,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0456\u043d\u0433\u0441\u0442\u0430\u043d"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u0982\u09b8\u099f\u09a8"
+    ],
     "name:bre_x_preferred":[
         "Kingston"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:deu_x_preferred":[
         "Kingston"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bd\u03b3\u03ba\u03c3\u03c4\u03bf\u03bd"
     ],
     "name:epo_x_preferred":[
         "Kingston"
@@ -98,10 +104,16 @@
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05e0\u05d2\u05e1\u05d8\u05d5\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0902\u0917\u0938\u094d\u091f\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Kingston"
     ],
     "name:hun_x_preferred":[
+        "Kingston"
+    ],
+    "name:ind_x_preferred":[
         "Kingston"
     ],
     "name:isl_x_preferred":[
@@ -200,7 +212,7 @@
         "gn:id":11201609
     },
     "wof:country":"TC",
-    "wof:geomhash":"2376bfee3f6472013661e0e9041af0ba",
+    "wof:geomhash":"7accc7f442dc27810364d25d7815b3cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -212,7 +224,7 @@
         }
     ],
     "wof:id":1242892185,
-    "wof:lastmodified":1566652665,
+    "wof:lastmodified":1636500667,
     "wof:name":"Kingston",
     "wof:parent_id":85678417,
     "wof:placetype":"locality",
@@ -222,10 +234,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.18833000000002,
-    21.78587000000001,
-    -72.18833000000002,
-    21.78587000000001
+    -72.18833,
+    21.78587,
+    -72.18833,
+    21.78587
 ],
-  "geometry": {"coordinates":[-72.18833000000002,21.78587000000001],"type":"Point"}
+  "geometry": {"coordinates":[-72.18832999999999,21.78587],"type":"Point"}
 }
