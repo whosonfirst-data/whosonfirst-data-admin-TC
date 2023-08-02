@@ -47,6 +47,9 @@
     "name:spa_x_preferred":[
         "Aeropuerto de Caicos del Norte"
     ],
+    "name:tur_x_preferred":[
+        "Kuzey Caicos Havaliman\u0131"
+    ],
     "oa:elevation_ft":"10",
     "oa:type":"medium_airport",
     "src:geom":"ourairports",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":102535783,
-    "wof:lastmodified":1566652660,
+    "wof:lastmodified":1690868491,
     "wof:name":"North Caicos Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
