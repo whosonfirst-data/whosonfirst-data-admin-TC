@@ -118,6 +118,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bbf\u0b9f\u0bbf\u0bb2\u0bcd  \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3f\u0c21\u0c3f\u0c32\u0c4d \u0c15\u0c48\u0c15\u0c4b\u0c38\u0c4d"
     ],
@@ -251,7 +254,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500667,
+    "wof:lastmodified":1690868491,
     "wof:name":"Middle Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",

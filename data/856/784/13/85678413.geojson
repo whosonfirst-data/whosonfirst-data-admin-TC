@@ -121,6 +121,9 @@
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b95\u0bbe\u0baf\u0bcd\u0b95\u0bcb\u0bb8\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c28\u0c3e\u0c30\u0c4d\u0c24\u0c4d \u0c15\u0c48\u0c15\u0c4b\u0c38\u0c4d"
     ],
@@ -251,7 +254,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500667,
+    "wof:lastmodified":1690868492,
     "wof:name":"North Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
