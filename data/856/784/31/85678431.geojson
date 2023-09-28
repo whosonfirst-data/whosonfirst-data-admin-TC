@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000439,
-    "geom:area_square_m":5058563.341701,
+    "geom:area_square_m":5058608.131848,
     "geom:bbox":"-71.219228,21.310614,-71.192494,21.341376",
     "geom:latitude":21.327953,
     "geom:longitude":-71.2072,
@@ -188,10 +188,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549930,
+        "iso:code_pseudo":"TC-08",
         "qs_pg:id":352616
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"TC",
-    "wof:geomhash":"2857548eb98c88a64684aa88095dd91a",
+    "wof:geomhash":"f3bb024482397abee30394fadb366684",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -208,7 +210,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500667,
+    "wof:lastmodified":1695884873,
     "wof:name":"Salt Cay",
     "wof:parent_id":85632205,
     "wof:placetype":"region",

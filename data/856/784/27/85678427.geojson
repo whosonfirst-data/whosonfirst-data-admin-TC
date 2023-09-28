@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00122,
-    "geom:area_square_m":14040019.627891,
+    "geom:area_square_m":14039750.491551,
     "geom:bbox":"-71.151682,21.431627,-71.128896,21.513617",
     "geom:latitude":21.471296,
     "geom:longitude":-71.140156,
@@ -176,10 +176,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549929,
+        "iso:code_pseudo":"TC-07",
         "qs_pg:id":352615
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"TC",
-    "wof:geomhash":"53f7f9a3ec821408594423b443094cc4",
+    "wof:geomhash":"2f3daea7692a8fc5d0c02aa6dd6471f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -196,7 +198,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500666,
+    "wof:lastmodified":1695884873,
     "wof:name":"Grand Turk",
     "wof:parent_id":85632205,
     "wof:placetype":"region",

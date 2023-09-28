@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010566,
-    "geom:area_square_m":121318773.288594,
+    "geom:area_square_m":121318884.374392,
     "geom:bbox":"-72.481313,21.630316,-72.087026,21.885443",
     "geom:latitude":21.780643,
     "geom:longitude":-72.282553,
@@ -25,7 +25,7 @@
     "mps:latitude":21.796832,
     "mps:longitude":-72.272398,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
@@ -172,10 +172,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549933,
+        "iso:code_pseudo":"TC-05",
         "qs_pg:id":432451
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"TC",
-    "wof:geomhash":"d29b54e5fe6cb303ef352814f6d3bee1",
+    "wof:geomhash":"9d1457a28700c849dda76eed1c8467c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -192,7 +194,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500666,
+    "wof:lastmodified":1695884286,
     "wof:name":"Providenciales and West Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
