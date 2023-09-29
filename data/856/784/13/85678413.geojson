@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008546,
-    "geom:area_square_m":98043283.814591,
+    "geom:area_square_m":98043545.580913,
     "geom:bbox":"-72.036244,21.828315,-71.857411,21.959215",
     "geom:latitude":21.908127,
     "geom:longitude":-71.952357,
@@ -25,7 +25,7 @@
     "mps:latitude":21.886396,
     "mps:longitude":-71.931358,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -233,11 +233,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":24549934,
+        "iso:code_pseudo":"TC-04",
         "qs_pg:id":891881,
         "wd:id":"Q174861"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"TC",
-    "wof:geomhash":"a90730ea8ce4fe39ef8782805fe3d478",
+    "wof:geomhash":"29e76ec9294d47d46a32c22b4825bea1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -254,7 +256,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690868492,
+    "wof:lastmodified":1695884286,
     "wof:name":"North Caicos",
     "wof:parent_id":85632205,
     "wof:placetype":"region",
